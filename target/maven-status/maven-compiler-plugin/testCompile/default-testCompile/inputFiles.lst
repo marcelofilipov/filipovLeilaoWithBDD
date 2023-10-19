@@ -1,0 +1,16 @@
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/model/LeilaoTest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/selenium/LeiloesE2ETest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/selenium/E2ETestBase.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/AlterarLeilaoPage.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/integration/controller/TestBase.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/selenium/LanceE2ETest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/integration/repository/UsuarioRepositoryTest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/integration/controller/LeiloesControllerTest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/LeiloesPage.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/integration/service/LanceServiceTest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/Browser.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/BrowserFactory.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/NovoLeilaoPage.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/model/LanceTest.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/DetalhesDoLeilaoPage.java
+/home/marcelo.filipov@sp01.local/Training/filipovLeilaoWithBDD/src/test/java/br/com/alura/leilao/e2e/pages/LoginPage.java

@@ -1,0 +1,17 @@
+br/com/alura/leilao/integration/controller/TestBase.class
+br/com/alura/leilao/e2e/pages/DetalhesDoLeilaoPage.class
+br/com/alura/leilao/integration/service/LanceServiceTest$EmployeeServiceImplTestContextConfiguration.class
+br/com/alura/leilao/model/LanceTest.class
+br/com/alura/leilao/e2e/pages/LeiloesPage.class
+br/com/alura/leilao/e2e/pages/BrowserFactory.class
+br/com/alura/leilao/e2e/selenium/LeiloesE2ETest.class
+br/com/alura/leilao/e2e/pages/NovoLeilaoPage.class
+br/com/alura/leilao/e2e/pages/AlterarLeilaoPage.class
+br/com/alura/leilao/integration/controller/LeiloesControllerTest.class
+br/com/alura/leilao/model/LeilaoTest.class
+br/com/alura/leilao/e2e/selenium/E2ETestBase.class
+br/com/alura/leilao/integration/repository/UsuarioRepositoryTest.class
+br/com/alura/leilao/integration/service/LanceServiceTest.class
+br/com/alura/leilao/e2e/selenium/LanceE2ETest.class
+br/com/alura/leilao/e2e/pages/LoginPage.class
+br/com/alura/leilao/e2e/pages/Browser.class
