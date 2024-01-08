@@ -35,6 +35,7 @@ public class PropondoLanceSteps {
         Assert.assertEquals(BigDecimal.TEN, leilao.getLances().get(0).getValor());
     }
 
+/*
     @Dado("varios lances validos")
     public void varios_lances_validos() {
         Usuario usuario1 = new Usuario("fulano");
@@ -42,6 +43,13 @@ public class PropondoLanceSteps {
         Usuario usuario2 = new Usuario("beltrano");
         lance15 = new Lance(usuario2, new BigDecimal(15.0));
         leilao = new Leilao("Tablet XPTO");
+    }
+*/
+
+    @Dado("um lance de {double} reais do usuario {string}")
+    public void um_lance_de_reais_do_usuario_fulano(Double valor, String nomeUsuario) {
+        // Write code here that turns the phrase above into concrete actions
+        throw new io.cucumber.java.PendingException();
     }
 
     @Quando("propoe varios lances ao leilao")
