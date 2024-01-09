@@ -27,7 +27,7 @@ public class PropondoLanceSteps {
 
     @After
     public void tearDown() {
-        System.out.println("after");
+        // System.out.println("after");
     }
 
     @Dado("um lance valido")
@@ -74,6 +74,17 @@ public class PropondoLanceSteps {
         Assert.assertEquals(this.lista.size(), leilao.getLances().size());
         Assert.assertEquals(this.lista.get(0).getValor(), leilao.getLances().get(0).getValor());
         Assert.assertEquals(this.lista.get(1).getValor(), leilao.getLances().get(1).getValor());
+    }
+
+    @Dado("um lance invalido de {double} reais e do usuario {string}")
+    public void um_lance_invalido_de_reais(Double valor, String nomeUsuario) {
+        this.lance = new Lance(new BigDecimal(valor));
+        System.out.println(nomeUsuario);
+    }
+
+    @Entao("o lance nao eh aceito")
+    public void o_lance_nao_eh_aceito() {
+        Assert.assertEquals(0, leilao.getLances().size());
     }
 
 }
